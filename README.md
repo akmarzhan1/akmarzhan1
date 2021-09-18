@@ -86,18 +86,18 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/akmarzhan-abylay/">
          <img alt="Qries" src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" alt="Follow akmarzhan1 on LinkedIn" title="Follow akmarzhan1 on LinkedIn"
-         width="30" height="20">
+         width="25" height="20">
       </a>
       
 
 <a href="mailto: akmarzhan@uni.minerva.edu">
          <img alt="Qries" src="https://user-images.githubusercontent.com/47840436/132921329-85589bc6-7ce9-4cb5-8ae5-26274d048ce0.png" alt="Write akmarzhan1 an email" title="Write akmarzhan1 an email"
-         width="30" height="20">
+         width="25" height="20">
       </a>
   
   <a href="https://github.com/akmarzhan1">
          <img alt="Qries" src="http://pngimg.com/uploads/github/github_PNG83.png" alt="Write akmarzhan1 an email" title="Write akmarzhan1 an email"
-         width="30" height="20">
+         width="25" height="20">
       </a>
   
 
